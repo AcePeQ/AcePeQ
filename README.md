@@ -1,5 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maciej</h1>
-<h3 align="left">I'm an aspiring frontend React developer from Grębków, Poland and an IT student at WIT Academy in Warsaw. I primarily focus on frontend development using React & Typescript, and I enjoy exploring and learning new things in my spare time. I've been self-taught for over 2 years and am still striving to dive deeper into the world of programming to learn more.</h3>
+<h3 align="left">I'm an aspiring frontend React developer from Grębków,
+Poland and a graduate of WIT Academy in Warsaw, where I
+studied IT.
+</h3>
 
 - 👨‍💻 All of my projects are available at https://nojszewmdev.netlify.app/
 
