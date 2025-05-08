@@ -2,6 +2,11 @@
 <h3 align="left">I'm an aspiring frontend React developer from Grębków,
 Poland and a graduate of WIT Academy in Warsaw, where I
 studied IT.
+I primarily focus on frontend development using React & Typescript, and I enjoy exploring and learning new things in my
+spare time. I've been self-taught for over 2 years and am still
+striving to dive deeper into the world of programming to
+learn more.
+
 </h3>
 
 - 👨‍💻 All of my projects are available at https://nojszewmdev.netlify.app/
